@@ -45,7 +45,7 @@ export default function App() {
             <Card className="min-h-[140px]">
               <div className="text-sm text-zinc-400">About</div>
               <div className="mt-2 max-w-2xl text-zinc-100">
-                Hey! I'm Jaden, a full stack developer. My expertise lies in creating seamless, dynamic and user-friendly web applications. A lifelong learner, always looking for the next challenge to tackle.
+                Hey! I'm Jaden, a 14-year-old full stack developer. My expertise lies in creating seamless, dynamic and user-friendly web applications. A lifelong learner, always looking for the next challenge to tackle.
               </div>
             </Card>
 
