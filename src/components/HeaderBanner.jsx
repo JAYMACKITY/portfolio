@@ -7,7 +7,7 @@ export default function HeaderBanner() {
       <div className="avatar" style={{ width: 96, height: 96, fontSize: 30 }}>JM</div>
       <div>
         <div className="text-3xl font-extrabold">Jaden Mack</div>
-        <div className="mt-1 text-zinc-300">22 y/o full stack developer <span style={{marginLeft:6}}>⭐</span></div>
+        <div className="mt-1 text-zinc-300">14 y/o full stack developer <span style={{marginLeft:6}}>⭐</span></div>
       </div>
     </Card>
   )
